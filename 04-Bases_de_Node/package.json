@@ -1,0 +1,19 @@
+{
+  "name": "04-bases_de_node",
+  "version": "0.0.1",
+  "description": "Tablas de multiplicar con creacion de archivos",
+  "main": "Requerir_Paquetes_de_Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "pavo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.1.1"
+  }
+}

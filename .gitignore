@@ -1,0 +1,3 @@
+node_modules/
+tablas_archivos_txt/*.txt 
+*/*.txt
